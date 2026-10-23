@@ -75,7 +75,7 @@ Electrónica y Ropa lideran en margen (35%+) aunque no en volumen de ventas — 
 Esto sugiere que las oportunidades de mejora no están en eficiencia de costos, sino en el mix de producto y segmento.
  
 **4️⃣ El segmento Premium no tiene ventaja de rentabilidad, a pesar de su ticket promedio más alto**
-Genera significativamente más ingreso por transacción que el segmento Económico, pero opera con el mismo margen (~34%) — lo que invita a cuestionar si los costos de retención de ese segmento están justificados frente al resultado en rentabilidad.
+Genera tres veces más ingreso por transacción que el segmento Económico ($1,700 vs $508), pero opera con el mismo margen (~34%) — lo que invita a cuestionar si los costos de retención de ese segmento están justificados frente al resultado en rentabilidad.
  
 ---
  
@@ -90,7 +90,7 @@ Genera significativamente más ingreso por transacción que el segmento Económi
 > **Acciones recomendadas:**
 > - 📈 Potenciar Electrónica y Ropa — mayor margen, menor protagonismo comercial actual.
 > - 🎯 Estrategia de upselling en el segmento Estándar, que lidera en volumen con recorrido al alza en ticket promedio.
-> - 🔍 Revisar la rentabilidad real del segmento Premium frente a sus costos de retención.
+> - 🔍 Revisar la rentabilidad real del segmento Premium ($1,700 de ticket promedio) frente a sus costos de retención.
 > - 📅 Reforzar acciones comerciales en junio–julio, valle estacional consistente en ambos años.
  
 ---
